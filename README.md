@@ -30,8 +30,8 @@ Copyright and other rights and interests: The copyright and other legally permit
 6、违约责任：任何违反本协议及声明的组织或个人和任何使用违反本协议及声明的软件著作的组织或个人，原著作者有权依法追究其法律责任、道德责任和经济责任（除追讨违法所得外，还包含但不仅限于版权费、经济损失费、赔偿金、利息（法律许可的上限）、名誉损失费、精神损失费、诉讼费、律师费、公证费、取证费、交通费、误工费、证人出具证明和出庭产生的所有费用）。
 Liability for breach of contract: any organization or individual that violates this agreement and the statement and any organization or individual that uses the software works that violate this agreement and the statement, the original author has the right to pursue its legal, moral and economic responsibilities according to law (in addition to recovering the illegal income, it also includes but is not limited to the copyright fee, economic loss fee, compensation, interest (the upper limit permitted by law), reputation loss fee, moral loss fee, legal fee Attorney's fee, notarial fee, evidence collection fee, transportation fee, work delay fee, and all expenses incurred by the witness to issue the certificate and appear in court).
 
-7、本协议及声明以保护作者权益为目的，未尽事宜在法律基础上仍然以保护作者权益为提前。
-The purpose of this agreement and statement is to protect the rights and interests of the author. Matters not covered in this agreement and statement are still based on the protection of the rights and interests of the author.
+7、本协议及声明以保护作者权益为目的，未尽事宜在法律基础上仍然以保护作者权益为前提。
+The purpose of this agreement and statement is to protect the rights and interests of the author. Matters not covered in this agreement and statement are still based on the premise of protecting the rights and interests of the author on a legal basis.
 
 8、本协议及声明的条款由网络翻译工具翻译成中文之外的语系条款，如有语意歧义以中文条款语意为准。
 The terms of this agreement and the statement are translated into language terms other than Chinese by online translation tools. In case of any ambiguity, the meaning of the Chinese terms shall prevail.
