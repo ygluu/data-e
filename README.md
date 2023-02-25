@@ -50,6 +50,6 @@ There is no infringement such as subjective intentional plagiarism in this softw
 The terms of this statement are translated into language family terms other than Chinese by online translation tools. In case of semantic ambiguity, the meaning of the Chinese terms shall prevail.
 
 # 作者信息(Author information)
-Author: Yigui Lu (卢益贵)
+Author: Yigui Lu (卢益贵/码客)
 Contact WX/QQ: 48092788
 Blog: https://blog.csdn.net/guestcode
